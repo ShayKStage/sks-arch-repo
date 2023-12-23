@@ -1,3 +1,6 @@
+> [!WARNING]
+> Deprecated in favor of [ShayKStage/repo](https://github.com/ShayKStage/repo)
+
 # sks-arch-repo
 
 ## Usage
